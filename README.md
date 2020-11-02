@@ -1,4 +1,4 @@
-#Salary Estimator: Project Overview
+# Salary Estimator: Project Overview
 
 Based off of Ken Jee's tutorial series, this tool estimates data science salaries
 
